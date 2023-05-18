@@ -15,6 +15,22 @@
     overflow: hidden;
 }
 
+/* .header {
+    position: sticky;
+    top: 0;
+    z-index: 999;
+    background: white;
+} */
+/* 메뉴 고정하기 */
+
+/* .header {
+    position: fixed;
+    left: 0;
+    right: 0;
+    z-index: 999;
+    메뉴고정하기
+} */
+
 .header .inner {
     display: flex;
     align-items: center;
